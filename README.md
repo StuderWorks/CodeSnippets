@@ -1,4 +1,8 @@
 # Code Snippets
+
+> [!WARNING]
+> **Deprecated:** this project is no longer maintained. The repository is archived and read-only; the code stays available as-is.
+
 These are custom code snippets I created to help speed up my coding.
 
 ## Install Code Snippet:
